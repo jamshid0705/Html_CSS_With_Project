@@ -1,0 +1,690 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Montserrat&family=Mukta:wght@700&family=Roboto:wght@300;500&display=swap');
+.main1{
+  background-color: rgb(116, 67, 180);
+  height: 1200px;
+}
+.apple{
+  width: 1270px;
+  margin:auto;
+  position:relative;
+  font-family:Roboto;
+}
+.head a{
+  color: white;
+  text-decoration: none;
+}
+.head a:hover{
+  border-bottom: 3px solid red;
+}
+.head2 a:hover{
+  background-color:rgb(226, 17, 17) ;
+  color: white;
+}
+.apple h1{
+  position: absolute;
+  top: 0px;
+  left: 0;
+  color: white;
+  
+}
+.apple li{
+  display: inline-block;
+  margin-left: 70px;
+  color: white;
+}
+.apple ul{
+  margin-left: 100px;
+}
+.apple ol{
+  margin-left: 850px;
+  margin-top: -70px;
+}
+.apple ol a{
+  text-decoration: none;
+  background-color:white ;
+  padding: 8px 25px;
+  color: rgb(226, 17, 17);
+}
+.apple2 h2{
+  font-size: 110px;
+  color: white;
+}
+.apple2{
+  width: 600px;
+}
+.apple2 h4{
+  color: white;
+}
+.apple3{
+  width: 200px;
+  height: 200px;
+  border: 2px solid white;
+  border-radius: 100px;
+  position: relative;
+  margin-left: 520px;
+  margin-top: -380px;
+}
+.apple3:hover{
+  box-shadow: 0px 0px 15px white;
+}
+.apple3 h2{
+  text-align: center;
+  
+  padding-top: 64px;
+  text-decoration: none;
+}
+.apple3 h2 a{
+  text-decoration: none;
+  color: white;
+}
+
+.apple4{
+  margin-left: 820px;
+  margin-top: -450px;
+  width: 440px;
+  height: 600px;
+  position: relative;
+  background-color: white;
+  border-radius: 5px;
+}
+.apple41{
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+.apple42 h4{
+  border: 2px solid;
+  padding: 20px 20px;
+  text-align: center;
+  margin-right: 40px;
+  width:120px;
+  border-radius: 5px;
+  margin-top: -5px;
+  float: left;
+}
+.apple42 h4:hover{
+  background-color: red;
+  color: white;
+  border: 2px solid red;
+}
+.apple4 img{
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  width: 100%;
+}
+.apple4 table img{
+  width: 20px;
+}
+.apple41 #boy {
+  font-size: 40px;
+  margin-right: 10px;
+}
+.apple41 #boy1{
+ margin-right: 50px;
+}
+
+.my{
+  margin-left: 760px;
+  background-color:rgb(102, 35, 190);
+  width: 500px;
+  height: 180px;
+  position: relative;
+  margin-top: 170px;
+}
+.my img{
+  width: 40%;
+  position: absolute;
+  top: -120px;
+}
+.my h2{
+  margin-left: 230px;
+  margin-top: 55px;
+  color: white; 
+}
+.my1{
+  width: 70px;
+  height: 70px;
+  border: 2px solid rgb(255, 51, 0);
+  border-radius: 50%;
+  margin-top: 40px;
+  margin-left: 20px;
+  position: relative;
+}
+.my1:hover{
+  box-shadow: 0px 0px 30px red;
+}
+.my1 img{
+  width: 20px;
+  margin-top: 144px;
+  margin-left: 22px;
+}
+.my2{
+  width: 640px;
+  color: white;
+  position: relative;
+  margin-top:-200px ;
+  
+}
+
+
+.my2 #q{
+  width: 40px;
+  border-top: 3px solid rgb(255, 51, 0);
+  margin: 10px;
+  margin-top: -60px;
+  
+}
+.my2 #a{
+  margin-top:-66px ;
+}
+/* ------------------------------------------------------------ */
+.pear1{
+  height: 1400px;
+}
+.pear3{
+  width: 350px;
+  height: 140px;
+  border-radius: 10px;
+  float: left;
+  margin: 10px;
+  background-color: white;
+  box-shadow: 0px 0px 10px rgb(224, 237, 243),0px 0px 10px rgb(224, 237, 243);
+}
+.pear3 img{
+ width: 40px;
+ margin-top: 15px;
+ margin-left: 15px;
+}
+.pear3 h2{
+  font-family: Lato;
+  
+}
+.pear3 h4{
+  font-family: Lato;
+
+}
+.pear3 div{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-top: 12px;
+}
+
+.pear2{
+  width:770px ;
+  height: 280px;
+  margin-top: 400px;
+  margin-left: 100px;
+  position: relative;
+}
+.pear3 #w{
+  padding: 20px;
+}
+
+.pear2::before{
+  content: '';
+  width: 700px;
+  height: 570px;
+  margin-top: -170px;
+  margin-left: -100px;
+  display: block;
+  background-color: rgb(224, 237, 243);
+  position: absolute;
+  z-index: -1;
+}
+#name1{
+  background-color: rgb(108, 255, 255);
+}
+#name2{
+  background-color: rgb(103, 228, 79);
+}
+#name3{
+  background-color: rgb(236, 84, 84);
+}
+#name4{
+  background-color: rgb(240, 156, 88);
+}
+#name1:hover{
+  background-color: rgb(20, 190, 241);
+}
+#name2:hover{
+  background-color: rgb(45, 185, 17);
+}
+#name3:hover{
+  background-color:red;
+}
+#name4:hover{
+  background-color: rgb(255, 115, 0);
+}
+.head1{
+  font-family: Lato;
+  width:480px ;
+  height: 330px;
+  margin-left: 950px;
+  margin-top: -300px;
+}
+.head1 h1{
+  font-size: 50px;
+}
+.head1 #my1{
+  width:120px ;
+  background-color: red;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin-top: 10px;
+}
+.head1 #my1:hover{
+  background-color:white;
+  box-shadow: 0px 0px 15px rgb(236, 72, 72),0px 0px 15px rgb(236, 72, 72);
+  border: 1px solid rgb(250, 77, 77);
+  color: red;
+}
+.head1 #my{
+  color: red;
+}
+.head1 #my2{
+  width: 360px;
+}
+.body1{
+  font-family: Lato;
+  width: 500px;
+  margin: 300px auto;
+}
+.body1 #my{
+  color: red;
+  text-align: center;
+}
+.body1 #my2{
+  text-align: center;
+}
+.body1 #my1{
+  text-align: center;
+}
+.body1 h1{
+  font-size: 50px;
+  text-align: center;
+}
+.big1{
+  border: 2px solid rgb(179, 216, 233);
+  width: 230px;
+  height: 280px;
+  border-radius: 20px;
+  float:left;
+  margin: 20px;
+  margin-top: -200px;
+}
+.big2{
+  text-align: center;
+  font-family: Lato;
+  margin-top: 35px;
+}
+.big1:hover{
+  box-shadow: 0px 0px 15px  rgb(224, 237, 243),0px 0px 15px  rgb(224, 237, 243);
+  border: 2px solid rgb(224, 237, 243);
+}
+.big2 img{
+  width: 80px;
+  margin-left: 14px;
+}
+.b1{
+  float: left;
+  margin-top: -100px;
+}
+.b1 img{
+  width: 100px;
+}
+#y:hover{
+  width: 110px;
+}
+#t:hover{
+  width: 110px;
+  margin-left: -10px;
+}
+.big{
+  margin-left:110px;
+}
+.head1 #my8{
+  width:120px ;
+  background-color: red;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin-top: 210px;
+  margin-left: -260px;
+}
+.head1 #my8:hover{
+  background-color:white;
+  box-shadow: 0px 0px 10px rgb(236, 72, 72),0px 0px 10px rgb(236, 72, 72);
+  border: 1px solid rgb(250, 77, 77);
+  color: red;
+}
+/* ---------------------------------------------------------- */
+.body3{
+  background-color: rgb(210, 239, 252);
+  height: 1200px;
+  margin-top: -100px;
+  padding: 30px;
+}
+.body4{
+  width: 1270px;
+  height: 100%;
+  margin: auto;
+  position: relative;
+}
+.new1{
+  font-family: Lato;
+  width:100%;
+  height: 250px;
+  position: relative;
+  margin-top: 100px;
+}
+.new1 #my{
+  color: red;
+}
+.new1 h1{
+  font-size: 50px;
+}
+.head1 #my9{
+  width:120px ;
+  background-color: red;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  
+}
+.head1 #my9:hover{
+  background-color:white;
+  box-shadow: 0px 0px 10px rgb(236, 72, 72),0px 0px 10px rgb(236, 72, 72);
+  border: 1px solid rgb(250, 77, 77);
+  color: red;
+}
+.new2{
+  width: 360px;
+  font-family: Lato;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: rgb(237, 242, 243);
+  float: left;
+  margin: 21px;
+  margin-top: 100px;
+}
+.new2>img{
+  width: 100%;
+  height: 210px;
+  border-radius: 10px;
+}
+.new2 #was img{
+  width: 30px;
+}
+.new2 table h2{
+  margin-right: 120px;
+  color: red;
+}
+.new2 #was1 img{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.new2 table h4{
+  margin-left: 84px;
+  background-color: rgb(120, 243, 243);
+  width: 90px;
+  color:red;
+  padding: 8px;
+  text-align: center;
+  border-radius: 20px;
+  border: 2px solid ;
+}
+.new2 table h4:hover{
+  box-shadow: 0px 0px 20px red;
+  border: 2px solid red;
+  color:blue;
+}
+/* ---------------------------------------------------------------- */
+.man{
+  height: 1300px;
+}
+.man1{
+  width: 1270px;
+  height: 100%;
+  margin: auto;
+  position: relative;
+}
+.baby1{
+  font-family: Lato;
+  width: 500px;
+  margin: 150px auto;
+}
+.baby1 #my{
+  color: red;
+  text-align: center;
+}
+.baby1 #my2{
+  text-align: center;
+}
+.baby1 #my1{
+  text-align: center;
+}
+.baby1 h1{
+  font-size: 50px;
+  text-align: center;
+}
+.baby2{
+  width: 600px;
+  border: 2px solid rgb(130, 164, 238);
+  font-family: Lato;
+  float:left;
+  margin: 15px;
+  border-radius: 8px;
+}
+.baby2:hover{
+  border: 2px solid white;
+  box-shadow: 0px 0px 15px rgb(155, 199, 219);
+}
+.baby2 h1{
+  font-size: 37px;
+}
+.baby2 img{
+  padding: 10px;
+  padding-bottom: 0;
+  background-color: rgb(245, 230, 147);
+  width: 160px;
+  height:243px ;
+  margin: 20px;
+  border-radius: 5px;
+}
+.baby2 #free{
+  border: 2px solid rgb(0, 132, 255);
+  width: 150px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+}
+.baby2 #free:hover{
+  color:white;
+  background-color:red;
+  border: 2px solid red;
+  box-shadow: 0px 0px 15px red;
+}
+.yellow{
+  margin-top: -100px;
+}
+.man1 #fee{
+  background-color: red;
+  border: 1px solid red;
+  width: 150px;
+  text-align: center;
+  padding: 14px;
+  color: white;
+  position: absolute;
+  bottom: 100px;
+  left: 550px;
+  font-family: Lato;
+}
+.man1 #fee:hover{
+  color: red;
+  background-color: white;
+  border: 1px solid red;
+  box-shadow: 0px 0px 15px red;
+}
+/* ---------------------------------------------------------------------- */
+.red{
+  height: 1100px;
+  background-color: rgb(116, 67, 180);
+}
+.red1{
+  width: 1270px;
+  height: 100%;
+  border: 1px solid rgb(116, 67, 180);
+  margin: auto;
+  position: relative;
+}
+.red1 #an{
+  color: white;
+}
+.new3{
+  width: 360px;
+  border: 1px solid white;
+  margin:20px;
+  padding: 10px;
+  position: relative;
+  text-align:center;
+  color: black;
+  background-color: white;
+  float: left;
+}
+.new3 h1{
+  text-align: left;
+  font-size: 100px;
+  margin-top: -40px;
+  color: rgb(247, 73, 4);
+}
+.new3 img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+/* --------------------------------------------------------------- */
+.iron{
+  height: 1000px;
+  background-color:rgb(210, 239, 252) ;
+}
+.iron1{
+  height: 100%;
+  width: 1270px;
+  margin: auto;
+  font-family: Lato;
+  font-size: 20px;
+  padding-top: 300px;
+}
+.iron2{
+  width: 800px;
+  height: 400px;
+  margin:auto;
+}
+.iron2 table #reach1{
+  background-color: red;
+  width: 400px;
+  height: 400px;
+  color: white;
+}
+#reach1 h1{
+  margin-left: 70px;
+}
+.iron2 table #reach2{
+  background-color: white;
+  width: 400px;
+  height: 400px;
+  margin:auto;
+}
+.iron2 table #reach2 input{
+  
+  margin:0px 50px 40px 50px;
+  border:none;
+  border-bottom:2px solid grey ;
+  width: 70%;
+}
+.iron2 table #reach2 input:focus{
+  outline: none;
+}
+.iron2 table #reach2 h1{
+  margin-left:50px ;
+}
+.iron2 table #reach2 button{
+  margin-left: 50px;
+  padding: 0px 30px;
+  background-color:rgb(116, 67, 180) ;
+  color: white;
+  border: 1px solid rgb(116, 67, 180);
+  border-radius: 5px;
+}
+.iron2 table #reach2 button:hover{
+  background-color: white;
+  color: rgb(116, 67, 180);
+  border: 1px solid rgb(116, 67, 180);
+  box-shadow: 0px 0px 25px rgb(116, 67, 180);
+}
+/* ---------------------------------------------------------------- */
+.eat{
+  width: 1270px;
+  margin: auto;
+  font-family: Lato;
+}
+.eat1{
+  padding: 70px;
+}
+.eat1 #was2,#was3,#was4,#was5{
+  width: 210px;
+  height: 100px;
+}
+.eat1 #was1{
+  width: 300px;
+
+  padding-right: 80px;
+}
+.eat1 #was1 form input{
+  border:none;
+  background-color: rgb(255, 196, 0);
+}
+.eat1 #was1 form input:focus{
+  outline: none;
+}
+.eat1 #was1 form{
+  width: 260px;
+  background-color: rgb(255, 196, 0);
+  padding: 5px;
+  border-radius: 8px;
+}
+.eat1 #was1 form img{
+  width: 30px;
+}
+.eat1 #was1 form button{
+  border: none;
+  background-color: rgb(255, 72, 0);
+  border-radius: 5px;
+  margin-left: 45px;
+}
+.eat1 #was1 form button:hover{
+  background-color: aliceblue;
+}
+.eat1 #was5 img{
+  width: 90px;
+}
+.eat1 #was2 h3:hover,#was3 h3:hover,#was4 h3:hover,#was5 h3:hover{
+  color: red;
+}
+.eat1 #was3 h2{
+  margin-top:-70px ;
+
+}
+.eat1 #was4 h2{
+  margin-top: -30px;
+}
+.eat1 #was2 h2{
+  margin-top: 8px;
+}
+
